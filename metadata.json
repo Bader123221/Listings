@@ -1,0 +1,5 @@
+{
+  "name": "ProListings - Modern Listing Platform",
+  "description": "A modern, responsive listing website built with React and Tailwind CSS. Users can browse, filter, and manage their own listings through a dedicated account page.",
+  "requestFramePermissions": []
+}
